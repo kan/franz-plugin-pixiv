@@ -1,0 +1,23 @@
+{
+  "name": "Pixiv",
+  "version": "1.0.0",
+  "description": "Pixiv",
+  "main": "index.js",
+  "author": "Kan Fushihara <kan.fushihara@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www.pixiv.net/bookmark_new_illust.php",
+    "serviceName": "Pixiv",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
